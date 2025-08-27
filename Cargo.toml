@@ -5,6 +5,6 @@ edition = "2024"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[dependencies.august-plugin-system]
-git = "https://github.com/BleynChannel/august-plugin-system.git"
+[dependencies.plux]
+git = "https://github.com/BleynChannel/plux-rs.git"
 branch = "master"
